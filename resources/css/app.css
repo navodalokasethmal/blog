@@ -1,0 +1,12 @@
+.background-image{
+
+    background-image: url('https://cdn.pixabay.com/photo/2022/08/22/10/28/tihany-7403355_960_720.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 600px;
+
+
+}
+
